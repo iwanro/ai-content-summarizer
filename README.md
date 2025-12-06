@@ -226,6 +226,6 @@ If you encounter any issues or have questions:
 
 ---
 
-**Made with ❤️ by Antigravity**
+**Made with ❤️ with Antigravity**
 
 ⭐ Star this repo if you find it helpful!
